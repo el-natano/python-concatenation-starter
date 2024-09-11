@@ -5,7 +5,13 @@
 # Part 1
 # Use concatenation to build and display a string that displays which city and state you live in
 
-place = str('Rapid City, Michigan')
+
+# city = 'Rapid City '
+# state = 'Michigan'
+
+# place = str('Rapid City, Michigan')
+
+# print(city + state)
 
 
 
@@ -16,7 +22,10 @@ place = str('Rapid City, Michigan')
 # Create another variable that stores the welcome message
 # Use concatenation to create the customized message
 
-greeting = input('Hello there, what\'s your name?')
+# greeting = input('Hello there, what\'s your name?')
+# player = 'Nathan'
+# message = 'Welcome to Space Invaders, '
+# print(message + player + "!")
 
 
 
@@ -27,7 +36,12 @@ greeting = input('Hello there, what\'s your name?')
 # Use the built-in Python str( ) function to convert your age to a string (when doing concatenation)
 # Use concatenation to display a sentence that tells us your first name and age
 
+first_name = 'Nathan'
+age = 17
 
+
+
+print('My name is ' + first_name + " and I am " + str(age) + " years old.")
 
 
 

@@ -1,9 +1,11 @@
-# Student name
-# Current date
+# Nathan Barton
+# September 11,2024
 # String Concatenation
 
 # Part 1
 # Use concatenation to build and display a string that displays which city and state you live in
+
+place = str('Rapid City, Michigan')
 
 
 
@@ -13,6 +15,9 @@
 # Create one variable to store the user's first name
 # Create another variable that stores the welcome message
 # Use concatenation to create the customized message
+
+greeting = input('Hello there, what\'s your name?')
+
 
 
 
